@@ -1,0 +1,23 @@
+# Esto es un comentario 💬
+sentir felicidad;  # Declarar una variable
+sentir amor = "Escribir código me llena el corazón ❤️";  # Inicializar variable
+
+# Condiciones
+si (felicidad > 100) entonces:
+    cantar("¡Estoy tan feliz que no puedo con mi corazón! 🎤");
+sino:
+    cantar("Todavía me falta algo de alegría.");
+
+# Bucles
+mientras (amor no esté vacío):
+    cantar("La programación es mi lugar feliz 💻🎶");
+
+# Funciones
+crear cancion "MiCódigo":
+    cantar("Este es el coro de mi código 🎵");
+    devolver amor;
+
+cancion favorita = MiCódigo();  # Llamada a la función
+
+# Imprimir el resultado
+mostrar favorita;  # Salida: Este es el coro de mi código 🎵

@@ -1,0 +1,8 @@
+/CamiloEcheverry
+│
+├── index.html          (Archivo principal)
+├── style.css           (Estilo de la página)
+├── script.js           (Interactividad con JavaScript)
+├── /images             (Imágenes del proyecto)
+├── /albums             (Canciones o álbumes)
+└── /videos             (Clips destacados)
