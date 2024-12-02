@@ -1,4 +1,4 @@
-# Esto es un comentario 💬
+# Esto es un comentario
 sentir felicidad;  # Declarar una variable
 sentir amor = "Escribir código me llena el corazón ";  # Inicializar variable
 
